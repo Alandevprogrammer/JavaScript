@@ -6,9 +6,9 @@ console.log(age, year);
 age = 23;
 console.log(age);
 
-// const points = 834;
-// points = 345;
+const points = 100;
+// points = 57;
 // console.log(points);
 
-// var score = 234;
-// console.log(score);
+var score = 90;
+console.log(score);
