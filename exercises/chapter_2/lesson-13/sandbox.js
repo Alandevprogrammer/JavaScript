@@ -13,3 +13,11 @@ let ninjas = ['diego', 'emilly', 'chun-li'];
 
 // array methods
 
+// let result = ninjas.join('-');
+// let result = ninjas.indexOf('chun-li');
+// let result = ninjas.concat(['ken', 'crystal']);
+let result = ninjas.push('henry');
+// let result = ninjas.pop();
+
+console.log(result);
+
